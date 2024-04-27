@@ -1,4 +1,4 @@
-![](https://gitlab.nweca.com/android-team/interns/nagayomi/-/raw/master/glasses.png?ref_type=heads)
+![](https://raw.githubusercontent.com/mawsteryowda/NagaYomi/main/glasses.png)
 # NagaYomi
 A mobile application that uses the Mangadex API to read the manga series Don't Toy with Me, Miss Nagatoro.
 Don't Toy with Me, Miss Nagatoro is a Japanese web manga series written and illustrated by Nanashi, also known as 774.
