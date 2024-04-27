@@ -1,0 +1,20 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NagaYomi" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+    <style name="roundedImageView" parent="Base.Theme.NagaYomi">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">5dp</item>
+    </style>
+    <style name="ToolbarTheme" parent="Base.Theme.NagaYomi">
+        <item name="android:fontFamily">@font/poppins_black</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+    <style name="ThemeOverlay.App.MaterialAlertDialog" parent="ThemeOverlay.Material3.MaterialAlertDialog">
+        <item name="materialAlertDialogTitleTextStyle">@style/MaterialAlertDialog.Material3.Title.Text</item>
+        <item name="materialAlertDialogBodyTextStyle">@style/MaterialAlertDialog.Material3.Body.Text</item>
+    </style>
+    <style name="Theme.NagaYomi" parent="Base.Theme.NagaYomi" />
+</resources>

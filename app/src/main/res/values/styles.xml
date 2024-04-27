@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MaterialAlertDialog.Material3.Title.Text" parent="MaterialAlertDialog.MaterialComponents.Title.Text">
+        <item name="fontFamily">@font/poppins_black</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+    <style name="MaterialAlertDialog.Material3.Body.Text" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="fontFamily">@font/poppins_bold</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+</resources>
